@@ -1,4 +1,4 @@
-# EASE_TSE
+# EASE
 This is the replication package for our work submitted to XXX.
 
 # CCN_WD
