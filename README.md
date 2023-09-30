@@ -13,6 +13,9 @@ This directory contains the true key classes in the subject systems.
 # code
 This directory will contain the source code that we used to perform all the experiments after our work's acceptance. Now it is null. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
 
-# RQ1, RQ2, and RQ3
+# RQ1, RQ2, RQ3, and RQ5
 These directories contain the results that we used to answer the RQs.
+
+# stat
+This directory contains some statistics results referenced in the main context.
 
