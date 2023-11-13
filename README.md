@@ -1,5 +1,5 @@
 # EASE
-This is the replication package for our work submitted to XXX.
+This is the replication package for our work accepted by ACM Transactions on Software Engineering and Methodology.
 
 # CCN_WD
 This directory contains the CCN_WDs that we built for all the subject systems used in our experiments. There are three versions of CCN_WDs according to different weighting mechanisms (i.e., OWM, DWM, and EWM). Note that a detailed data set will be available after our work's acceptance. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
